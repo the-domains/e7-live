@@ -1,0 +1,28 @@
+name: E7-Live
+favicon: null
+layout_spectrum: 0.5312212696298957
+typography_spectrum: 0.21028244914487004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6196381030604243
+  lightness: 0.5376293279696256
+  saturation: 0.2523894419427961
+  rhythmicContrast: 0.8964370607864112
+purpose: []
